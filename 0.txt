@@ -19,10 +19,17 @@
      git init === yangi repository/loyihani boshlash uchun ishlatiladi.
      git status === ozgarishlarni bilish uchun ishlatiladi.
 
-6. mkdir folder - git da yangi papka yaratadi.
-     cd . - ushbu papkaga kiriladi.
-     touch file - yangi file yaratadi.
+6. mkdir folder = git da yangi papka yaratadi.  
+7. cd folder = ushbu papkaga kiriladi.
+8. touch file = yangi file yaratadi.
+7. git status = malumotlarni ko'rsatadi.
+   untracked files: qizil ragda bo'ladi. yani navbatga olinmagan fayllar.
+8. git add .  = hamma fayllarni navbatga oladi.
+9. git commit -m"message" = git navbatga olingan fayllarni xotiraga saqlab qo'yadi. 
+10. 
      
+
+
 
 
 
