@@ -27,6 +27,9 @@
 8. git add .  = hamma fayllarni navbatga oladi.
 9. git commit -m"message" = git navbatga olingan fayllarni xotiraga saqlab qo'yadi. 
 10. git log = bu bizning hozirgi ishlab turgan versiyani tekshiradi.
+11. echo "komentariya" >> newfile = yangi fayl yaratib ichida comentariya qoldiradi.
+
+12. git checkout -- file = git add buyirlmagan ozgarishlar o'chib ketadi.
      
 
 
