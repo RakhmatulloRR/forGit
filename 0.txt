@@ -26,7 +26,7 @@
    untracked files: qizil ragda bo'ladi. yani navbatga olinmagan fayllar.
 8. git add .  = hamma fayllarni navbatga oladi.
 9. git commit -m"message" = git navbatga olingan fayllarni xotiraga saqlab qo'yadi. 
-10. 
+10. git log = bu bizning hozirgi ishlab turgan versiyani tekshiradi.
      
 
 
