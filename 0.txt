@@ -34,6 +34,15 @@
 13. git checkout versiya raqami = oldingi verdiyaga qaytadi. 
     master = bu hozirgi versiyaning nomi hisoblanadi.
 14. git reset file -- git add file buyrig'ini bekor qilish uchun ishlatiladi.
+15. git commit --amend == qoldirilgan -m"..." habarini ozgartiradi.
+16. git config --global core.editor "code --waita" == bu git commit --amend buyrigidan keyin ochiladigan editorni visual studioga o'zgartirib beradi.
+ 
+BRANCH VA MERGE haqida batafsil.
+17. branch - bu bo'lim yoki filial degan manoni anglatadi.
+18. git branch == mavjud branchlarni ko'rsatadi.
+19. git branch anyBranch == yangi branch hosil qiladi.
+20. git checkout anyBranch == any branchga o'tish buyrugi.
+21. git merge anyBranch == anyBranch ni mavjud branchga yuklash.
 
 
 
