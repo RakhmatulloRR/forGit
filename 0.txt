@@ -26,11 +26,14 @@
    untracked files: qizil ragda bo'ladi. yani navbatga olinmagan fayllar.
 8. git add .  = hamma fayllarni navbatga oladi.
 9. git commit -m"message" = git navbatga olingan fayllarni xotiraga saqlab qo'yadi. 
+9-1. git commit -a -m"message" == git add . + git commit -m"message";
 10. git log = bu bizning hozirgi ishlab turgan versiyani tekshiradi.
 11. echo "komentariya" >> newfile = yangi fayl yaratib ichida comentariya qoldiradi.
 
 12. git checkout -- file = git add buyirlmagan ozgarishlar o'chib ketadi.
-     
+13. git checkout versiya raqami = oldingi verdiyaga qaytadi. 
+    master = bu hozirgi versiyaning nomi hisoblanadi.
+
 
 
 
