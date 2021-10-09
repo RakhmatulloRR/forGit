@@ -1,0 +1,29 @@
+1.    git bash dasturini o'rnatamiz;
+2. git dasturarni boshqarishda yordam beradi.
+3. git bu Version Control System(VCS). 
+   - Kodning versiyasini nazorat qiladi.
+   - qanday o'zgarishlar qilindi.
+   - qachon va kim tomonidan kodga o'zgarishlar kiritildi.
+   - loyihalar bilan jamoaviy ishlash.
+   - open sourse loyihalariga yordam beradi.
+   - portfalio va ish.
+
+4. git config - git configuratsiya qilish uchun ishlatiladi.
+     git config --list === barcha malumotlarini ko'rsatadi.
+     git config user.name === foydalanuvchi nomini ko'rsatadi.
+      git config --global user.name 'any name' === yangi user.name kiritadi.
+     git config user.email === foydalanuvchi email'ni ko'rastadi.
+      git config --global user.email 'any user.email' === yangi user.email kiritadi.
+
+5. git repository - git da yangi papka/loyihalar repository deyiladi.
+     git init === yangi repository/loyihani boshlash uchun ishlatiladi.
+     git status === ozgarishlarni bilish uchun ishlatiladi.
+
+6. mkdir folder - git da yangi papka yaratadi.
+     cd . - ushbu papkaga kiriladi.
+     touch file - yangi file yaratadi.
+     
+
+
+
+ 
