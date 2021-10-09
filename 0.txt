@@ -33,6 +33,7 @@
 12. git checkout -- file = git add buyirlmagan ozgarishlar o'chib ketadi.
 13. git checkout versiya raqami = oldingi verdiyaga qaytadi. 
     master = bu hozirgi versiyaning nomi hisoblanadi.
+14. git reset file -- git add file buyrig'ini bekor qilish uchun ishlatiladi.
 
 
 
