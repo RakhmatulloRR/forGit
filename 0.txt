@@ -45,7 +45,7 @@
     [git merge anyBranch] == anyBranch ni mavjud branchga yuklash.
 
 
-# GITHUB haqida batafsil malumotlar.
+# GITHUB haqida batafsil malumotlar. 1:23:00
     video's url: https://www.youtube.com/watch?v=XF8pCXZcdOI
 
 
