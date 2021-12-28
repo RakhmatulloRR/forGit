@@ -1,6 +1,6 @@
-1.    git bash dasturini o'rnatamiz;
-2. git dasturarni boshqarishda yordam beradi.
-3. git bu Version Control System(VCS). 
+# 1. git bash dasturini o'rnatamiz;
+# 2. git dasturarni boshqarishda yordam beradi.
+# 3. git bu Version Control System(VCS). 
    - Kodning versiyasini nazorat qiladi.
    - qanday o'zgarishlar qilindi.
    - qachon va kim tomonidan kodga o'zgarishlar kiritildi.
@@ -8,45 +8,45 @@
    - open sourse loyihalariga yordam beradi.
    - portfalio va ish.
 
-4. git config - git configuratsiya qilish uchun ishlatiladi.
-     git config --list === barcha malumotlarini ko'rsatadi.
-     git config user.name === foydalanuvchi nomini ko'rsatadi.
-      git config --global user.name 'any name' === yangi user.name kiritadi.
-     git config user.email === foydalanuvchi email'ni ko'rastadi.
-      git config --global user.email 'any user.email' === yangi user.email kiritadi.
+# 4. [git config] - git configuratsiya qilish uchun ishlatiladi.
+     [git config --list] === barcha malumotlarini ko'rsatadi.
+     [git config user.name] === foydalanuvchi nomini ko'rsatadi.
+     [git config --global user.name 'any name'] === yangi user.name kiritadi.
+     [git config user.email] === foydalanuvchi email'ni ko'rastadi.
+     [git config --global user.email 'any user.email'] === yangi user.email kiritadi.
 
-5. git repository - git da yangi papka/loyihalar repository deyiladi.
-     git init === yangi repository/loyihani boshlash uchun ishlatiladi.
-     git status === ozgarishlarni bilish uchun ishlatiladi.
+# 5. git repository - git da yangi papka/loyihalar repository deyiladi.
+     [git init] === yangi repository/loyihani boshlash uchun ishlatiladi.
+     [git status] === ozgarishlarni bilish uchun ishlatiladi.
 
-6. mkdir folder = git da yangi papka yaratadi.  
-7. cd folder = ushbu papkaga kiriladi.
-8. touch file = yangi file yaratadi.
-7. git status = malumotlarni ko'rsatadi.
-   untracked files: qizil ragda bo'ladi. yani navbatga olinmagan fayllar.
-8. git add .  = hamma fayllarni navbatga oladi.
-9. git commit -m"message" = git navbatga olingan fayllarni xotiraga saqlab qo'yadi. 
-9-1. git commit -a -m"message" == git add . + git commit -m"message";
-10. git log = bu bizning hozirgi ishlab turgan versiyani tekshiradi.
-11. echo "komentariya" >> newfile = yangi fayl yaratib ichida comentariya qoldiradi.
+     [mkdir folder] = git da yangi papka yaratadi.  
+     [cd folder] = ushbu papkaga kiriladi.
+     [touch file] = yangi file yaratadi.
+     [git status] = malumotlarni ko'rsatadi.
+     untracked files: qizil ragda bo'ladi. yani navbatga olinmagan fayllar.
+     [git add .]  = hamma fayllarni navbatga oladi.
+     [git commit -m"message"] = git navbatga olingan fayllarni xotiraga saqlab qo'yadi. 
+     [git commit -a -m"message"] == [git add . + git commit -m"message"];
+     [git log] = bu bizning hozirgi ishlab turgan versiyani tekshiradi.
+     [echo "// komentariya" >> newfile] = yangi fayl yaratib ichida comentariya qoldiradi.
 
-12. git checkout -- file = git add buyirlmagan ozgarishlar o'chib ketadi.
-13. git checkout versiya raqami = oldingi verdiyaga qaytadi. 
-    master = bu hozirgi versiyaning nomi hisoblanadi.
-14. git reset file -- git add file buyrig'ini bekor qilish uchun ishlatiladi.
-15. git commit --amend == qoldirilgan -m"..." habarini ozgartiradi.
-16. git config --global core.editor "code --waita" == bu git commit --amend buyrigidan keyin ochiladigan editorni visual studioga o'zgartirib beradi.
+     [git checkout -- file] = git add buyirlmagan ozgarishlar o'chib ketadi.
+     [git checkout versiya raqami] = oldingi versiyaga qaytadi. 
+     master = bu hozirgi versiyaning nomi hisoblanadi.
+     [git reset file] == git add file buyrig'ini bekor qilish uchun ishlatiladi.
+     [git commit --amend] == qoldirilgan -m"..." habarini ozgartiradi.
+     [git config --global core.editor "code --waita"] == bu 'git commit --amend' buyrigidan keyin ochiladigan editorni visual studioga o'zgartirib beradi.
  
-BRANCH VA MERGE haqida batafsil.
-17. branch - bu bo'lim yoki filial degan manoni anglatadi.
-18. git branch == mavjud branchlarni ko'rsatadi.
-19. git branch anyBranch == yangi branch hosil qiladi.
-20. git checkout anyBranch == any branchga o'tish buyrugi.
-21. git merge anyBranch == anyBranch ni mavjud branchga yuklash.
+# BRANCH VA MERGE haqida batafsil.
+    branch - bu bo'lim yoki filial degan manoni anglatadi.
+    [git branch] == mavjud branchlarni ko'rsatadi.
+    [git branch anyBranch] == yangi branch hosil qiladi.
+    [git checkout anyBranch] == any branchga o'tish buyrugi.
+    [git merge anyBranch] == anyBranch ni mavjud branchga yuklash.
 
 
- GITHUB haqida batafsil malumotlar.
-21. github haqida github.2 videoning 1:24:30 time'idan boshlanadi..
+# GITHUB haqida batafsil malumotlar.
+    github haqida github.2 videoning 1:24:30 time'idan boshlanadi..
 
 
 
