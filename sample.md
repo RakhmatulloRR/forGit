@@ -1,12 +1,12 @@
 # 1 heading1
-*2 italic text*
-_2 italic text_
-**3 strong text**
-__3 strong text__
-~~strikethrough~~
-___
-this is beetwen horizontal lines
-___
+ *2 italic text*
+ _2 italic text_
+ **3 strong text**
+ __3 strong text__
+ ~~strikethrough~~
+ ___
+ this is beetwen horizontal lines
+ ___
 > this is a quote
 
 [w3schools.com](https://www.w3schools.com/js/tryit.asp?filename=tryjs_intro_inner_html)
